@@ -1,7 +1,14 @@
-### Hi there 👋
+# Hi, I am Adrian Arroyo (AdrianArroyoC) 👋🏽
+
+I'm a **Software Engineer** with experiencie in different programming languages and frameworks in web and desktop development, passionate about learning and trying to apply my knowledge in my work and my own projects 👨🏽‍💻
+
+## Get in touch via 🌍
+- Following me on [Twitter](https://twitter.com/AdrianArroyoC) ☑️
+- Connecting in [LinkedIn](https://www.linkedin.com/in/adrianarroyoceja) 🔗
+
 
 <!--
-**AdrianArroyoC/AdrianArroyoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adrianarroyoceja/adrianarroyoceja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
