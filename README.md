@@ -1,24 +1,12 @@
 # Hi, I am Adrian Arroyo (AdrianArroyoC) 👋🏽
 
-I'm a **Software Engineer** with 6+ years of working experience using different programing languages, frameworks, and technologies, focused on working as a Backend Developer with Node.js. Passionate about learning and trying to apply my knowledge in my work and my own projects 👨🏽‍💻
+I'm a **Software Engineer** with 6+ years of working experience using different programing languages, frameworks, and technologies, focused on working as a Backend Developer with Node.js 👨🏽‍💻
+
+- 🏢 Working at Emergys Mexico as a Software Architect
+- 🔭 Working on persona projects using all JS related technologies 
+- 🌱 Learning AI and improving my skills as a frontend
 
 ## Get in touch via 🌍
 - Following me on [Twitter](https://twitter.com/AdrianArroyoC) 🐤
 - Connecting in [LinkedIn](https://www.linkedin.com/in/adrianarroyoceja) 🔗
 - Send me and [Email](adrianarroyoceja.com) ✉️
-
-
-<!--
-**adrianarroyoceja/adrianarroyoceja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
