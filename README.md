@@ -8,6 +8,6 @@ I'm a **Software Engineer** 👨🏽‍💻 with 7+ years of working experience 
 - 🌱 Learning AI and improving my skills as a frontend
 
 ## Get in touch via 🌍
-- Following me on [X](https://twitter.com/AdrianArroyoC) ✖️ (Twitter 🐤)
+- Following me on [X](https://twitter.com/AdrianArroyoC) (Twitter 🐤)
 - Connecting in [LinkedIn](https://www.linkedin.com/in/adrianarroyoceja) 🔗
 - Send me and [Email](adrianarroyoceja.com) ✉️
