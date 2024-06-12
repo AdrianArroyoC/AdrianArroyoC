@@ -2,7 +2,7 @@
 
 **Software Engineer** 👨🏽‍💻 with 7+ years of working experience (Jedi Master) using different programing languages, frameworks, and technologies, focused on working with the Backend side (light side of the force) with Node.js ❤️
 
-- 🏢 Working at Plena Data as a Software Engineer (Super Saiyan 💪)
+- 🏢 Working at Emma Robot as a Software Engineer (Super Saiyan 💪)
 - 🆓 Sometimes working as freelance (Trying to be rich as Iron Man 🫰)
 - 🔭 Doing personal projects with JS (Searching the triforce to save Zelda and Hyrule 🏰) 
 - 🌱 Learning AI and improving my frontend skills (I want to be a pokemon master 🏆)
